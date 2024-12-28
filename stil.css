@@ -1,0 +1,23 @@
+h3{
+    color:darkorchid
+    }
+    body{ 
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode'
+         }
+         .siteLinkleriBasliklari{ 
+            font-size: 25px;
+        }
+
+        a     { 
+            color:aqua;
+            text-decoration: none;
+        }
+
+        ul{ 
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+
+
+        }
+        
